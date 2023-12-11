@@ -14,5 +14,9 @@ Socket.IO communication can also extend between servers (server-to-server) which
 
 ---
 
-**Express** - This is used to create REST API and helps manage routes in our application.
+**Express** - This is used to create REST API and helps manage routes in our application.\
 **Socket.IO** - is a library that enables real-time, bidirectional, and event-based communication between the client and the server.
+
+---
+
+/*https://reflectoring.io/tutorial-nodejs-socketio/?ref=dailydev*/
